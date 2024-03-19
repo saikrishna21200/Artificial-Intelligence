@@ -5,4 +5,8 @@
 
 [Lab-04](https://github.com/saikrishna21200/AIML_BATCH_10/blob/main/LAB04_AIML.ipynb)
 
+[Lab-05](https://github.com/saikrishna21200/AIML_BATCH_10/blob/main/LAB05_AIML.ipynb)
+
 [Lab-06](https://github.com/saikrishna21200/AIML_BATCH_10/blob/main/LAB06_AIML.ipynb)
+
+[Lab-05](https://github.com/saikrishna21200/AIML_BATCH_10/blob/main/LAB05_AIML.ipynb)
