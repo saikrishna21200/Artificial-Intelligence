@@ -17,3 +17,6 @@
 [Lab-08](https://github.com/saikrishna21200/AIML_BATCH_10/blob/main/LAB08_AIML.ipynb)
 
 [Lab-09](https://github.com/saikrishna21200/AIML_BATCH_10/blob/main/LAB09_AIML.ipynb)
+
+[Lab-10](https://github.com/saikrishna21200/AIML_BATCH_10/blob/main/LAB10_AIML.ipynb)
+
